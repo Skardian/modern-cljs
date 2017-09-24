@@ -14,3 +14,4 @@ pom.xml.asc
 .nrepl-port
 .nrepl-history
 out
+.cljs_rhino_repl
